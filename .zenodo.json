@@ -25,12 +25,5 @@
   "license": "cc-by-4.0",
   "version": "1.0.0",
   "language": "eng",
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "arXiv:PENDING",
-      "scheme": "arxiv"
-    }
-  ],
   "notes": "The paper's arXiv identifier is added to related_identifiers once assigned. These are de-identified derivatives of internal documents; the canonical internal sources remain private under the staged 2028 code-release plan."
 }
