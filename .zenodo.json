@@ -1,0 +1,36 @@
+{
+  "title": "M&V firewall FMEA and a pre-registration record (supplementary to the platform paper)",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "De-identified deposit versions of two project-internal documents cited as evidence in the paper 'A measurement-and-verification-firewalled living lab in an occupied single-family home' (arXiv, eess.SY). (1) The failure-mode-and-effects analysis of the three-plane (Control / Analytics / Research) measurement-and-verification firewall: the six cross-plane corruption paths (CF1-CF6) and the guards that close them. (2) A pre-registered analysis plan for a 168-hour unoccupied free-float thermal-identification experiment: eight falsifiable hypotheses with frozen decision thresholds, frozen (version-control-timestamped) before data collection. Both are de-identified derivatives -- house, zone, device, and vendor names generalised; architecture, guard logic, hypotheses, thresholds, and method preserved faithfully. No personal or household data. Controller source code and raw data excluded. CC-BY-4.0.",
+  "creators": [
+    {
+      "name": "Elmér, Rolf",
+      "affiliation": "Nordregio",
+      "orcid": "0009-0007-6735-3256"
+    }
+  ],
+  "keywords": [
+    "measurement and verification",
+    "M&V",
+    "IPMVP",
+    "building energy",
+    "FMEA",
+    "pre-registration",
+    "living lab",
+    "grey-box thermal identification",
+    "reproducible research",
+    "home energy management"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "arXiv:PENDING",
+      "scheme": "arxiv"
+    }
+  ],
+  "notes": "The paper's arXiv identifier is added to related_identifiers once assigned. These are de-identified derivatives of internal documents; the canonical internal sources remain private under the staged 2028 code-release plan."
+}
